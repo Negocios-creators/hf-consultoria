@@ -13,6 +13,9 @@ Campanha "🤖 | Andrômeda - Leads - Enfermeira - teste novo público" (ACTIVE)
 Conjunto "Advantage+ · Andrômeda - Leads - Enfermeira - teste novo público e posicionamnto": R$413,36, 39 leads, CPL R$10,60.
 Conjunto "Advantage+ · Andrômeda - Leads - Enfermeira - teste novo público": R$70,41, 5 leads, CPL R$14,08.
 Conjunto "Andrômeda - Leads - Médico - teste novo público e posicionamnto": R$130,29, 2 leads, CPL R$65,14.
+Público Médicos: 2 leads no Meta; nas planilhas do Moskit 0 cadastros: 0 cálculos positivos, 0 contratos, 0 perdidos (0 incompatíveis, que não são nem médico nem enfermeiro; 0 sem contato ou retorno, com profissão desconhecida; 0 perdidos após atendimento).
+Público Enfermeiros: 44 leads no Meta; nas planilhas do Moskit 0 cadastros: 0 cálculos positivos, 0 contratos, 0 perdidos (0 incompatíveis, que não são nem médico nem enfermeiro; 0 sem contato ou retorno, com profissão desconhecida; 0 perdidos após atendimento).
+A profissão só é registrada nos leads que a equipe consegue atender e não vem nos perdidos: não afirme quantos leads são médicos nem quantos são enfermeiros; separe só incompatíveis (confirmado), sem contato (desconhecido) e perdidos após atendimento.
 Criativo "Ad01": R$613,54, 46 leads, CPL R$13,34, CTR 1,13%.
 Criativo "Enfermeiros mais de um local plantões extras · criativo 05": R$0,08, 0 leads, CPL sem lead, CTR 0,00%.
 Criativo "Restituição enfermeiros plantonistas · criativo 01": R$0,35, 0 leads, CPL sem lead, CTR 0,00%.
