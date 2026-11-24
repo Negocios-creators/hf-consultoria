@@ -25,12 +25,11 @@
   "convPositivo": 1.7543859649122806
  },
  "propostas": 0,
- "publicado": "2026-11-24T14:29:23.090Z",
+ "publicado": "2026-11-24T14:31:26.656Z",
  "textoPadrao": false,
  "avisoNarrativa": null,
  "divergencias": [
   "contratos: texto 1 × CSV 0",
-  "cálculos positivos: texto 1 × CSV 0",
-  "perdidos: texto 33 × CSV 0"
+  "cálculos positivos: texto 1 × CSV 0"
  ]
 }
